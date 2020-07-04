@@ -1,0 +1,127 @@
+# (PART\*) Personal skills {-}
+
+# Notes from [The Human side of statistical consultancy](https://archive.org/details/humansideofstati00boen/page/n13/mode/2up)
+
+Two models
+
+* Problem solving
+  * Go away
+  * Solve
+  * Present
+* Client achieving learning
+  * Work with client to **clarify** goals
+  * Develop proposals consistent with client situation
+  
+## Minimum Required Knowledge (their thoughts not mine)
+
+* Regression Analysis
+* Basic Statistical Models
+* ANOVA
+* Plots and summarisation
+* Design of experiments (power law etc)
+
+* Variance- erimation
+* Bio stats (bioassay)
+* Categorical data analysis
+* Quilaty controil & acceptance sample
+* Non-linera estimation
+* Non-parametic metjhos
+* Ranked & paired comparisons
+* Multvariate analusis
+
+* Probability models
+* Simulation
+* Reliability & life data danalysis
+* Numerical analysis
+* Time series analusis
+* Survey exampling
+
+## Expections
+
+Clients will expect that:
+* You're knowldegable
+* You have contacts for allied services
+* Good at managing time & money
+* Loyalty
+* Comparssionate and human
+* Enthusiastic and interested
+
+## The effective industrial statistician
+
+* Trained in theory & practice of statistics
+* An effective problem solver
+* Good communication skills (oral & written)
+* Can work within contraints of the real world
+* Good programming skills
+* Is familiar with the statistical literature (current)
+* Understands the realities of statistical practice
+* Pleasing personality - works well with others
+* Gets involved with the solution of company problems
+* Can extend and develop statstical methodology
+* Can adapt quickly to new problems & challenges
+* Produces high quality qork in a timely fashion.
+
+* The more knowdlege the better
+* Application not just theory
+* Attiude & business
+
+## Chapter 5 - Choosing a statistical technique
+
+* Get clients to clarify objectives
+ * What do you hope to answer by running that analysis
+ * How will you know if you've answered your question
+* It's one this to know how to do a t-test, another to know **when** do do it and **what** it means
+* When you have a choice, use the methods you understand well
+* Don't offer colutions that are beyond the comprehension of the client (or his ability to describe them)
+* The simple graph is a major consulting virtue (Sometimes all you need!)
+* Simple techniques are easier to give good time & money estimates
+* Confirm **who** is doing the analysis - client or consultant
+* How much analysis does the client need to understand - and at what level
+* Use techniques already accepted in the (client's) field
+* Choose the simplest technique that will do the job, not the fanciest technique you can handle
+* If the client's solution is decent, don't push yours unless necessary
+* Help with the data collection and questioning
+* Push for client understanding
+* Agree work division **before** deciding a technique
+
+Writing
+* Write sooner than you think
+* Avoid technical jargon
+* Keep tone friendly & helpful
+* Short, simple and concise
+
+Remember the target if your client's audience. 
+What will persuade them. Get to know the subcultural - which arguments are the most convincing?
+
+## Chater 7 Business aspects of consulting
+
+
+* What tasks need to be done
+* Who will do them
+* Who gets the credit
+* Project time
+* Project funding
+* How will you get paid, and when?
+* Who decides when the work is done?
+* Who does the quality control of variables?
+* What sort of consultant-client relationship
+* Determine any other involved parties and roles
+* Who signs off on the final report, who writes it?
+* How will my analysis be presented - do I have any control over this?
+* Will I prepare a written report of my activities?
+* Stakeholder mapping?
+
+Check in with your feelings before writing this to ensure correct tone (friendly & helpful)
+
+* Be kind, firm, fair and empathetic
+* Time estimates
+  * Break into chunks
+  * Review data before the final time estimate
+* It doesn't matter how good it is if it isn;t on time
+* Listen to everyone who asks for a consult, but triage
+* Are you talking to the real client or a messenger?
+
+* Discuss time & money early on
+* Communicate any delays or unexpected costs
+* You're responsible for time/money of services you employ
+* Allocate responsbilities without coming across as legalistic
