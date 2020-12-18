@@ -1,0 +1,18 @@
+# Xaringan Tips
+
+## Xaringan tricks 
+
+* name your slides with
+
+```
+name: 
+```
+
+* Use ??? to add presenter notes
+* Press `p` on slides to see presenter mode
+* Remember to clone with `c` first
+
+* Plot and code side by side DRY method
+ Chunk 1 `{r plot-first, echo = FALSE}`
+ Chunk 2 `{r ref.label = "plot-first", eval = FALSE}`
+ See [blogpost](https://www.garrickadenbuie.com/blog/decouple-code-and-output-in-xaringan-slides/)
